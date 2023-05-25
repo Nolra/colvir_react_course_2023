@@ -1,2 +1,2 @@
 # colvir_course_react
-June - September - react / next / ts
+June 2023 - September 2023 - react / next / ts
